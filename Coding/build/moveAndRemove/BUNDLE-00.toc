@@ -1,1 +1,0 @@
-([('moveAndRemove', '/Users/dust/Coding/dist/moveAndRemove', 'EXECUTABLE')],)
